@@ -9,5 +9,3 @@
 pip install python-telegram-bot --upgrade
 
 Бот - t.me/Marishka_bot_bot
-
-Бот - t.me/Marishka_bot_bot
